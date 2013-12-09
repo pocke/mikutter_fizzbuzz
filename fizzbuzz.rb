@@ -1,3 +1,7 @@
+# Copyright 2013, pocket
+# Licensed MIT
+# http://opensource.org/licenses/mit-license.php
+
 Plugin.create :fizzbuzz do
   def generate_reply(start, screen_name)
     result = "@#{screen_name}"
