@@ -8,6 +8,6 @@ mikutter_fizzbuzz
     $ cd ~/.mikutter/plugin/
     $ git clone https://github.com/pocke/mikutter_fizzbuzz.git fizzbuzz
 
-Copyright &copy 2013 pocke
+Copyright &copy; 2013 pocke
 Licensed [MIT][mit]
 [MIT]: http://www.opensource.org/licenses/mit-license.php
